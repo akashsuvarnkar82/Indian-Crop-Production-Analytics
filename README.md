@@ -20,7 +20,7 @@ and presents insights using an interactive Streamlit dashboard.
 Indian Crop Production dataset sourced from Kaggle.
 
 ## 🌐 Live Dashboard
-Check out the live AI analysis here: [Launch AI-Market Pulse](https://indian-crop-production-analytics.onrender.com/)
+Check out the live AI analysis here: [Launch](https://indian-crop-production-analytics.onrender.com/)
 
 ## ▶ How to Run Locally
 ```bash
