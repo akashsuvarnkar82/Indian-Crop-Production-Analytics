@@ -17,7 +17,7 @@ and presents insights using an interactive Streamlit dashboard.
 - Streamlit
 
 ## 📊 Dataset
-Indian Crop Production dataset sourced from government agricultural statistics.
+Indian Crop Production dataset sourced from Kaggle.
 
 ## ▶ How to Run Locally
 ```bash
