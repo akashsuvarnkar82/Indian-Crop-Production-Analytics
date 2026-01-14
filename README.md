@@ -23,3 +23,6 @@ Indian Crop Production dataset sourced from Kaggle.
 ```bash
 pip install -r requirements.txt
 streamlit run app.py
+
+## 🌐 Live Dashboard
+Check out the live AI analysis here: [Launch AI-Market Pulse](https://indian-crop-production-analytics.onrender.com/)
